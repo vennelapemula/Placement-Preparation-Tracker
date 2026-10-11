@@ -23,6 +23,9 @@ def add_topic(data):
     if not name:
         print("Name cannot be empty.")
         return
+    if any(t["name"].lower() == name.lower() for t in data["topics"]):
+        print("Topic already exists.")
+        return
     data["topics"].append({"name": name, "status": "pending"})
     save_data(data)
     print("Topic added.")
