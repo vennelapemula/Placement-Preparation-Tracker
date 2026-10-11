@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Placement Preparation Tracker
 
 A Python project that helps students track their placement preparation.
@@ -23,3 +24,27 @@ A Python project that helps students track their placement preparation.
 - Progress reports
 - Reminders
 - Database support
+=======
+# Placement Preparation Tracker
+
+A Python-based tracker for placement preparation.
+
+## Features
+
+- Track completed topics
+- Track solved coding problems
+- Track internship applications
+- Calculate overall preparation progress
+- JSON-based data storage
+
+## Technologies Used
+
+- Python
+- JSON
+- File Handling
+
+## Run
+
+```bash
+python main.py
+>>>>>>> 74a9eebded3bf0292de1f54d9ed23ef121f32d6f
