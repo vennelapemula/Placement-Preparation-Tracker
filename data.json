@@ -1,5 +1,19 @@
 {
-  "topics": [],
-  "coding_problems": {"solved": 0, "log": []},
-  "internships": []
+    "topics": [
+        {
+            "name": "Arrays",
+            "status": "done"
+        }
+    ],
+    "coding_problems": {
+        "solved": 0,
+        "log": []
+    },
+    "internships": [
+        {
+            "company": "TCS",
+            "role": "Intern",
+            "status": "applied"
+        }
+    ]
 }
