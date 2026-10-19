@@ -1,24 +1,5 @@
 {
-    "topics": [
-        {
-            "name": "Arrays",
-            "status": "done"
-        }
-    ],
-    "coding_problems": {
-        "solved": 5,
-        "log": [
-            {
-                "date": "2026-10-11",
-                "count": 5
-            }
-        ]
-    },
-    "internships": [
-        {
-            "company": "tcs",
-            "role": "intern",
-            "status": "applied"
-        }
-    ]
+  "topics": [],
+  "coding_problems": {"solved": 0, "log": []},
+  "internships": []
 }

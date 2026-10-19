@@ -1,50 +1,36 @@
-
 # Placement Preparation Tracker
 
-A Python project that helps students track their placement preparation.
+A Python CLI app to track placement preparation.
 
 ## Features
+
 - Add topics and mark them as done
-- Log coding problems solved with date
+- Log coding problems solved, with date
 - Track internship applications
-- View preparation progress
-- Data stored in a JSON file
-
-## Technologies
-- Python
-- JSON
-
-## How to Run
-1. Install Python 3
-2. Open the project folder in a terminal
-3. Run: `python tracker.py`
-
-## Future Improvements
-- Graphical user interface
-- Progress reports
-- Reminders
-- Database support
-
-# Placement Preparation Tracker
-
-A Python-based tracker for placement preparation.
-
-## Features
-
-- Track completed topics
-- Track solved coding problems
-- Track internship applications
-- Calculate overall preparation progress
+- View overall preparation progress
 - JSON-based data storage
 
 ## Technologies Used
 
 - Python
 - JSON
-- File Handling
 
-## Run
+## How to Run
+
+1. Install Python 3
+2. Open the project folder in a terminal
+3. Run:
 
 ```bash
-python main.py
+python tracker.py
+```
 
+## Screenshots
+
+![Sample Output](sample_output.png)
+
+## Future Improvements
+
+- Graphical user interface
+- Reminders
+- Database supportS
